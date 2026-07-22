@@ -818,21 +818,21 @@ If you need immediate medical assistance:
 
 ## 🌟 Roadmap
 
-### Q3 2025 (Launch)
+### Q3 2026 (Launch)
 - ✅ MVP launch
 - ✅ 1,000 users
 
-### Q4 2025
+### Q4 2026
 - 🔄 User feedback collection
 - 🔄 Bug fixes & improvements
 - 🔄 Add 10 more articles
 
-### Q1 2026
+### Q1 2027
 - 📊 Analytics dashboard
 - 💬 Health worker chat (beta)
 - 📈 Advanced analytics
 
-### Q2 2026
+### Q2 2027
 - 🤝 Partnerships with clinics
 - 🌐 Expand to Kenya & Tanzania
 - 📱 Android/iOS apps (React Native)
@@ -841,7 +841,7 @@ If you need immediate medical assistance:
 
 ## 📝 Changelog
 
-### v1.0.0 (Planned Launch - September 2025)
+### v1.0.0 (Planned Launch - September 2026)
 - Initial release
 - Period tracking
 - Symptom logging
@@ -849,7 +849,7 @@ If you need immediate medical assistance:
 - Offline mode
 - English & Luganda
 
-### v1.1.0 (Planned - Q4 2025)
+### v1.1.0 (Planned - Q4 2026)
 - Fertility predictions
 - Cycle analytics
 - 20+ articles
@@ -897,4 +897,4 @@ If you need immediate medical assistance:
 
 ---
 
-*Last Updated: July 2025*
+*Last Updated: July 2026*
